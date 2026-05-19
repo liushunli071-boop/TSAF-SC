@@ -62,6 +62,8 @@ Designed for scalable, self-improving e-commerce intelligence systems.
 ## 🚀 Quick Start
 ---
 
+---
+
 ## 📊 Project Status
 
 - Architecture: Stable ✔  
@@ -74,6 +76,10 @@ Designed for scalable, self-improving e-commerce intelligence systems.
 ## 🤝 Design Principle
 
 Built for scalability, modular reasoning, and autonomous decision-making in data-driven commerce systems.
+
+---
+
+## 🚀 Quick Start
 
 ```bash
 python src/main.py
