@@ -9,6 +9,8 @@
 
 ## AI-Driven Autonomous Decision System for E-commerce Product Selection
 
+> Production-style decision engine for structured SKU evaluation, scoring, and automated selection in e-commerce systems.
+
 Modular intelligence engine for structured SKU evaluation and automated decision-making.
 
 ---
@@ -58,6 +60,20 @@ Designed for scalable, self-improving e-commerce intelligence systems.
 ---
 
 ## 🚀 Quick Start
+---
+
+## 📊 Project Status
+
+- Architecture: Stable ✔  
+- Pipeline: Active ✔  
+- Evaluation Engine: Modular ✔  
+- Deployment Readiness: Research Stage ✔  
+
+---
+
+## 🤝 Design Principle
+
+Built for scalability, modular reasoning, and autonomous decision-making in data-driven commerce systems.
 
 ```bash
 python src/main.py
