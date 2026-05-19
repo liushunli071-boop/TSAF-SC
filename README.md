@@ -9,7 +9,7 @@
 
 ## AI-Driven Autonomous Decision System for E-commerce Product Selection
 
-> Production-style decision engine for structured SKU evaluation, scoring, and automated selection in e-commerce systems.
+Production-style decision engine for structured SKU evaluation, scoring, and automated selection in e-commerce systems.
 
 Modular intelligence engine for structured SKU evaluation and automated decision-making.
 
@@ -56,11 +56,6 @@ This system follows a closed-loop autonomous decision paradigm:
 Data → Evaluation → Decision → Execution → Feedback
 
 Designed for scalable, self-improving e-commerce intelligence systems.
-
----
-
-## 🚀 Quick Start
----
 
 ---
 
