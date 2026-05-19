@@ -7,19 +7,11 @@
 
 ---
 
-### AI-Driven Autonomous Decision System for E-commerce Product Selection
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Stage](https://img.shields.io/badge/stage-research-orange)
+## AI-Driven Autonomous Decision System for E-commerce Product Selection
 
 ---
 
-# AI-Driven Autonomous Decision System for E-commerce Product Selection
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-![Stage](https://img.shields.io/badge/stage-research-orange)
-# TSAF-SC  
-
+## 🧭 Abstract
 
 TSAF-SC is an AI-driven decision system designed for autonomous product selection in e-commerce environments.
 
@@ -33,19 +25,13 @@ Data → Scoring → Policy → Execution → Feedback
 
 ## ⚙️ System Overview
 
-SKU Data
-  ↓
-Ingestion Layer
-  ↓
-Scoring Engine
-  ↓
-Policy Engine
-  ↓
-Decision Executor
-  ↓
-Output Selection
-  ↓
-Feedback Loop
+SKU Data  
+→ Ingestion Layer  
+→ Scoring Engine  
+→ Policy Engine  
+→ Decision Executor  
+→ Output Selection  
+→ Feedback Loop
 
 ---
 
@@ -65,3 +51,5 @@ Feedback Loop
 python src/main.py
 chore: add project badges
 fix: correct badge rendering
+```text
+chore: normalize README structure
