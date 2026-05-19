@@ -1,3 +1,4 @@
+![TSAF-SC Banner](https://dummyimage.com/1200x300/0d1117/00ffcc&text=TSAF-SC+%7C+AI+Decision+System)
 # TSAF-SC
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
