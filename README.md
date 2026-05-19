@@ -4,6 +4,13 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Stage](https://img.shields.io/badge/stage-research-orange)
+
+---
+
+# AI-Driven Autonomous Decision System for E-commerce Product Selection
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Stage](https://img.shields.io/badge/stage-research-orange)
 # TSAF-SC  
 ### AI-Driven Autonomous Decision System for E-commerce Product Selection
 
@@ -54,3 +61,4 @@ Feedback Loop
 ```bash
 python src/main.py
 chore: add project badges
+fix: correct badge rendering
