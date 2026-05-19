@@ -64,8 +64,6 @@ Designed for scalable, self-improving e-commerce intelligence systems.
 
 ---
 
----
-
 ## 📊 Project Status
 
 - Architecture: Stable ✔  
