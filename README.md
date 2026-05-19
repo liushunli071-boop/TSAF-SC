@@ -1,5 +1,3 @@
-## 🧭 Abstract
-
 # TSAF-SC
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
@@ -11,10 +9,12 @@
 
 ## 🧠 TSAF-SC
 
-> AI-Driven Autonomous Decision System for E-commerce Product Selection  
-> Modular intelligence engine for structured SKU evaluation and automated decision-making.
+AI-Driven Autonomous Decision System for E-commerce Product Selection  
+Modular intelligence engine for structured SKU evaluation and automated decision-making.
 
----🧭 Abstract
+---
+
+## 🧭 Abstract
 
 TSAF-SC is an AI-driven decision system designed for autonomous product selection in e-commerce environments.
 
