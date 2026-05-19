@@ -14,7 +14,8 @@
 
 ---
 
-## 🧭 Abstract
+## 🧭 Abstract## 
+🧠 System Architecture
 
 TSAF-SC is an AI-driven decision system designed for autonomous product selection in e-commerce environments.
 
