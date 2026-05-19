@@ -7,16 +7,19 @@
 
 ---
 
+### AI-Driven Autonomous Decision System for E-commerce Product Selection
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Stage](https://img.shields.io/badge/stage-research-orange)
+
+---
+
 # AI-Driven Autonomous Decision System for E-commerce Product Selection
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 ![Stage](https://img.shields.io/badge/stage-research-orange)
 # TSAF-SC  
-### AI-Driven Autonomous Decision System for E-commerce Product Selection
 
----
-
-## 🧭 Abstract
 
 TSAF-SC is an AI-driven decision system designed for autonomous product selection in e-commerce environments.
 
