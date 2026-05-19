@@ -1,43 +1,49 @@
-
-# TSAF-SC V9.1
-
-A reproducible computational framework for stability analysis and phase transition detection in complex systems.
+# TSAF-SC  
+### AI-Driven Autonomous Decision System for E-commerce Product Selection
 
 ---
 
-## 📌 DOI
+## 🧭 Abstract
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20278955.svg)](https://doi.org/10.5281/zenodo.20278955)
+TSAF-SC is an AI-driven decision system designed for autonomous product selection in e-commerce environments.
 
----
+It transforms SKU-level raw data into structured evaluation signals and executes selection decisions through a modular pipeline.
 
-## 🧠 Overview
+System paradigm:
 
-TSAF-SC is a minimal axiomatic computational system designed to model:
-
-- System stability evolution
-- Phase transition detection
-- Structural regime shifts in dynamic systems
-
-It defines a computable stability function σ(x) and a formal transition criterion based on structural perturbations.
+Data → Scoring → Policy → Execution → Feedback
 
 ---
 
-## 📐 Model
+## ⚙️ System Overview
 
-Stability is defined as:
-
-σ(x) = α·f(x) + β·g(x) + γ·h(x)
-
-where:
-
-- f(x): mean state value  
-- g(x): variance component  
-- h(x): anomaly ratio  
+SKU Data
+  ↓
+Ingestion Layer
+  ↓
+Scoring Engine
+  ↓
+Policy Engine
+  ↓
+Decision Executor
+  ↓
+Output Selection
+  ↓
+Feedback Loop
 
 ---
 
-## ⚙️ How to Run
+## 🧠 Core Modules
+
+- ingestion: data cleaning and normalization  
+- scoring: multi-factor evaluation  
+- policy: rule-based filtering  
+- executor: decision execution  
+- monitor: system feedback  
+
+---
+
+## 🚀 Run
 
 ```bash
 python src/main.py
