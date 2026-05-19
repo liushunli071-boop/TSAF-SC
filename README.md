@@ -49,7 +49,3 @@ SKU Data
 
 ```bash
 python src/main.py
-chore: add project badges
-fix: correct badge rendering
-```text
-chore: normalize README structure
