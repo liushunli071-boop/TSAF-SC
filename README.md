@@ -7,9 +7,8 @@
 
 ---
 
-## 🧠 TSAF-SC
+## AI-Driven Autonomous Decision System for E-commerce Product Selection
 
-AI-Driven Autonomous Decision System for E-commerce Product Selection  
 Modular intelligence engine for structured SKU evaluation and automated decision-making.
 
 ---
