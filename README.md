@@ -22,6 +22,7 @@ It transforms SKU-level raw data into structured evaluation signals and executes
 System paradigm:
 
 Data → Scoring → Policy → Execution → Feedback
+
 ---
 
 ## 🚀 Run
