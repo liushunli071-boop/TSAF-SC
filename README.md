@@ -9,6 +9,8 @@
 
 ## AI-Driven Autonomous Decision System for E-commerce Product Selection
 
+> A modular decision engine for structured SKU evaluation and automated selection.
+
 ---
 
 ## 🧭 Abstract
@@ -20,29 +22,6 @@ It transforms SKU-level raw data into structured evaluation signals and executes
 System paradigm:
 
 Data → Scoring → Policy → Execution → Feedback
-
----
-
-## ⚙️ System Overview
-
-SKU Data  
-→ Ingestion Layer  
-→ Scoring Engine  
-→ Policy Engine  
-→ Decision Executor  
-→ Output Selection  
-→ Feedback Loop
-
----
-
-## 🧠 Core Modules
-
-- ingestion: data cleaning and normalization  
-- scoring: multi-factor evaluation  
-- policy: rule-based filtering  
-- executor: decision execution  
-- monitor: system feedback  
-
 ---
 
 ## 🚀 Run
